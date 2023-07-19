@@ -18,7 +18,7 @@ Node
 ## How to run this app
 
 Go to the folder.
-Run npm `install @reduxjs/toolkit` .
+Run npm `install @reduxjs/toolkit`.
 Install the Tailwind Css 
 Run in your local with `npm run dev` start.
 
