@@ -43,7 +43,7 @@ function Demo() {
 
     }
   return (
-    <section className="mt-16 w-full max-w-xk">
+    <section className="mt-16 w-full max-w-xk ">
       {/*search*/}
       <div className="flex flex-col w-full gap-2">
         <form
@@ -114,7 +114,7 @@ function Demo() {
                       Article <span className="blue_gradient">Summary</span>  
                     </h2>
                     <div className="summary_box">
-                        <p className="font-inter font-medium text-sm text-gray-700">{article.summary}</p>
+                        <p className="font-inter font-medium text-sm text-gray-700 dark:text-gray-100">{article.summary}</p>
 
                     </div>
 
